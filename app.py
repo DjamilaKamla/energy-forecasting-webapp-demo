@@ -57,7 +57,7 @@ ax.legend()
 st.pyplot(fig)
 
 st.subheader("Interprétation business (exemple)")
-
+ 
 if last_mean > df["production_MWh"].mean():
     msg = (
         "La tendance récente est légèrement **supérieure** à la moyenne historique. "

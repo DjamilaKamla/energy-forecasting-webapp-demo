@@ -1,4 +1,4 @@
-# Energy Forecasting Webapp – Demo
+# Energy Forecasting Webapp 
 
 Cette application Streamlit est une **démo minimale** d’outil de prévision de séries temporelles
 appliquée à une production énergétique fictive.
@@ -18,6 +18,15 @@ Objectif :
   - historique,
   - prévisions à court terme.
 - Message d’interprétation business (tendance, volatilité).
+
+---
+
+## 👩‍💻 Auteure
+
+**Djamila Kamla Fares**  
+Master 2 Economic Analysis — CY Cergy / ESSEC  
+📧 faresdjamila@gmail.com  
+📍 Île-de-France  
 
 ---
 
